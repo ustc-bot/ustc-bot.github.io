@@ -1,2 +1,2 @@
-# yux99.github.io
-Personal site of Yuxuan
+# ustc-bot
+Interesting bot of ustc.
