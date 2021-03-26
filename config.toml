@@ -1,5 +1,5 @@
 baseurl = "https://ustc-wolfdiary.github.io/"
-title = "YuxuanGuo"
+title = "Wolf Diary@USTC"
 
 theme = "hugo-coder"
 
@@ -80,7 +80,7 @@ publishDir = "docs/"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa fa-github"
     weight = 1
     url = "https://github.com/yuxguo/"
 
@@ -92,7 +92,7 @@ publishDir = "docs/"
 
 [[params.social]]
     name = "Zhihu"
-    icon = "fab fa-zhihu"
+    icon = "fa fa-zhihu"
     weight = 3
     url = "https://www.zhihu.com/people/guo-yu-xuan-89"
 
