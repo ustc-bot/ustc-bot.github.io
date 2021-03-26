@@ -13,27 +13,27 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "https-yuxguo-github-io"
+disqusShortname = "https-ustc-wolfdiary-github-io"
 googleAnalytics = "UA-179113640-1"
 publishDir = "docs/"
 
 [params]
-    author = "YuxuanGuo"
-    description = "YuxuanGuo's personal website"
-    keywords = "blog,researcher,personal"
-    info = "An USTC Student."
+    author = "Wolf Diary@USTC"
+    description = "Wolf Diary@USTC"
+    keywords = "blog"
+    info = "记录阴间狼人局"
     avatarurl = "images/avatar.jpg"
 	favicon_32 = "/imgs/logomark.svg"
     favicon_16 = "/imgs/logomark.svg"
     # gravatar = "john.doe@example.com"
-    footercontent = "Keep coding!"
+    # footercontent = "Keep coding!"
 
     dateformat = "January 2, 2006"
 
-    hideFooter = false
+    hideFooter = true
     hideCredits = true
     hideCopyright = false
-    since = 2020
+    since = 2021
 
     # Git Commit in Footer, uncomment the line below to enable it.
     # commit = "https://github.com/yuxguo/yuxguo.github.io/tree/"
@@ -82,19 +82,7 @@ publishDir = "docs/"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/yuxguo/"
-
-[[params.social]]
-    name = "Mail"
-    icon = "fa fa-envelope"
-    weight = 2
-    url = "mailto:gyx_20170818@mail.ustc.edu.cn"
-
-[[params.social]]
-    name = "Zhihu"
-    icon = "fa fa-zhihu"
-    weight = 3
-    url = "https://www.zhihu.com/people/guo-yu-xuan-89"
+    url = "https://github.com/ustc-wolfdiary/"
 
 
 
