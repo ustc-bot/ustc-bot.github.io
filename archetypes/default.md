@@ -11,6 +11,8 @@ categories = [
 series = [
 	""
 ]
-
+players = [
+	""
+]
 ---
 
