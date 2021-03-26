@@ -1,5 +1,5 @@
 baseurl = "https://ustc-wolfdiary.github.io/"
-title = "Wolf Diary@USTC"
+title = "Wolf Diary @ USTC"
 
 theme = "hugo-coder"
 
@@ -18,15 +18,15 @@ googleAnalytics = "UA-179113640-1"
 publishDir = "docs/"
 
 [params]
-    author = "Wolf Diary@USTC"
-    description = "Wolf Diary@USTC"
+    author = "Wolf Diary @ USTC"
+    description = "Wolf Diary @ USTC"
     keywords = "blog"
     info = "记录阴间狼人局"
     avatarurl = "images/avatar.jpg"
-	favicon_32 = "/imgs/logomark.svg"
-    favicon_16 = "/imgs/logomark.svg"
+	favicon_32 = "imgs/logomark.svg"
+    favicon_16 = "imgs/logomark.svg"
     # gravatar = "john.doe@example.com"
-    # footercontent = "Keep coding!"
+    footercontent = "狼狼狼狼狼！"
 
     dateformat = "January 2, 2006"
 
