@@ -1,4 +1,4 @@
-baseurl = "https://yuxguo.github.io/"
+baseurl = "https://ustc-wolfdiary.github.io/"
 title = "YuxuanGuo"
 
 theme = "hugo-coder"
